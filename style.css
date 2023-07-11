@@ -30,32 +30,6 @@
     border-radius: 8px;
 }
 
-/* navbar section // this section is for bonus */
-nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px 40px;
-    background-color: #e55473;
-    color: #FFF;
-
-}
-
-.logo {
-    font-size: 30px;
-    padding-left: 100px;
-}
-
-.menu {
-    display: flex;
-}
-
-.menu li {
-    font-size: 20px;
-    margin-right: 30px;
-    list-style: none;
-}
-
 /* header section styles */
 .banner {
     display: flex;
