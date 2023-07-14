@@ -28,7 +28,10 @@
     padding: 16px 35px;
     border: none;
     border-radius: 8px;
+<<<<<<< HEAD
     margin-top: 20px;
+=======
+>>>>>>> origin/main
 }
 
 /* header section styles */
@@ -233,6 +236,7 @@ footer {
     color: rgba(255, 255, 255, 0.40);
     font-size: 12px;
 }
+<<<<<<< HEAD
 .hide{
     display: none;
 }
@@ -269,3 +273,5 @@ footer {
 
 
 }
+=======
+>>>>>>> origin/main
